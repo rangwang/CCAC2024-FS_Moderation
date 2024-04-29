@@ -109,7 +109,7 @@ https://docs.qq.com/form/page/DQXpOVlFtZFBVbGhF
 |比赛结果公布|2024年6月30日|
 ## 评委会成员
 评测主席：赵妍妍  
-评测委员会成员：陆鑫，李卓君，刘宇晟，孙怡馨
+评测委员会成员：李卓君，陆鑫，刘宇晟，孙怡馨
 ## 联系方式
 如有疑问，请致信评测会务组：李卓君zjli@ir.hit.edu.cn、刘宇晟ysliu@ir.hit.edu.cn
 ## 致谢
