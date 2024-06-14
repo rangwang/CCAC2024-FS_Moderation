@@ -130,6 +130,8 @@ track1训练集位于data/track1/train_data.jsonl，共200条
 track2训练集位于data/track2/train_data.jsonl，共200条
 ## 报名方式
 https://docs.qq.com/form/page/DQXpOVlFtZFBVbGhF
+## 评测结果提交收集表
+https://send2me.cn/eEBd014Z/R7WjKLuVNyVa3w
 ## 注意事项
 1. 本次评测使用的数据集仅限于本次技术评测及学术研究使用，未经许可不能作为商业用途或其他目的；
 2. 训练集数据用于模型的学习，测试集用于模型的效果评测；
